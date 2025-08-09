@@ -18,9 +18,9 @@
 
 **Here is a sample captcha image:**
 
-![Captcha Sample](./text-based/text-based-1.png)
+![Captcha Sample](./text-based-1.png)
 
-![Captcha Sample](./text-based/text-based-2.png)
+![Captcha Sample](./text-based-2.png)
 
 
 
@@ -28,5 +28,6 @@
 **Bypass Methods:**
 
 • OCR tools (Tesseract with preprocessing)
+
 • AI-based solvers (like Capsolver)
 
