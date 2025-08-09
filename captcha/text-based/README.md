@@ -11,13 +11,14 @@
 
 • Math problem (e.g., "What is 3 + 5?")
     
-**Looks like:**
+
+**Where you see it::**
  
  • Legacy websites, forums, or low-budget login pages.
  
     
 
-**Here is a sample captcha image:**
+**Looks like:**
 
 ![Captcha Sample](./text-based-1.png)
 
