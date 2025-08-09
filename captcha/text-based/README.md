@@ -14,13 +14,12 @@
  Where you see it:
  
  • Legacy websites, forums, or low-budget login pages.
+ 
     
 
 **Here is a sample captcha image:**
 
 ![Captcha Sample](./text-based-1.png)
-
-![Captcha Sample](./text-based-2.png)
 
 
 
