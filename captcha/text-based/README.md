@@ -1,4 +1,4 @@
-**Text-Based CAPTCHAs**
+**Text-Based CAPTCHA**
 
 • Distorted Letters/Numbers – Warped, overlapping, or noisy text.
 
@@ -12,7 +12,7 @@
 • Math problem (e.g., "What is 3 + 5?")
     
 
-**Where you see it::**
+**Where you see it:**
  
  • Legacy websites, forums, or low-budget login pages.
  
