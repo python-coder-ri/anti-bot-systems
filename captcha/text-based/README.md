@@ -11,7 +11,7 @@
 
 • Math problem (e.g., "What is 3 + 5?")
     
- Where you see it:
+**Looks like:**
  
  • Legacy websites, forums, or low-budget login pages.
  
